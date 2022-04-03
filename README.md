@@ -1,2 +1,2 @@
 # SparkAR
-This repository contains all my Spark AR filters made by me!
+This repository contains all my Spark AR filters made by me! 😎
